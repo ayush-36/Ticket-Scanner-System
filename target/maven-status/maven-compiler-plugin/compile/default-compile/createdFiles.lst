@@ -1,0 +1,11 @@
+com\example\ticket_scanner\QRCodeGenerator.class
+com\example\ticket_scanner\Sheetservice.class
+com\example\ticket_scanner\Ticket.class
+com\example\ticket_scanner\EmailService.class
+com\example\ticket_scanner\TicketRepository.class
+com\example\ticket_scanner\TicketStatusService.class
+com\example\ticket_scanner\GoogleSheetsService.class
+com\example\ticket_scanner\TicketController.class
+com\example\ticket_scanner\StartupService.class
+com\example\ticket_scanner\TicketScannerApplication.class
+com\example\ticket_scanner\TestController.class
